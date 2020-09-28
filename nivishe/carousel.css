@@ -305,3 +305,7 @@ hr {
   border-top: 2px solid #FAA916;
   margin: 5em 0; 
   padding: 0; }
+
+  .page_header{
+    background-color: #96031a;
+  }
